@@ -1,4 +1,4 @@
-Python Repeating Instructions (Loops) — 
+## Python Repeating Instructions (Loops)  
 
 ## Learning Outcomes assessed
 
@@ -83,7 +83,7 @@ fun-002-loopy-version-2/
 
 ---
 
-# Python Repeating Instructions — Coding Assessment, Version 2
+# Python Repeating Instructions — Coding Assessment
 
 Each function in `loopy.py` is partially implemented. Fix the bugs and complete the missing logic. Do not change the function names or test expectations.
 
