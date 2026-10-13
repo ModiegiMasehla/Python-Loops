@@ -1,4 +1,4 @@
-# Assessment 002 - Python Repeating Instructions (Loops) — Version 2
+Python Repeating Instructions (Loops) — 
 
 ## Learning Outcomes assessed
 
