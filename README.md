@@ -1,4 +1,4 @@
-## Python Repeating Instructions (Loops)  
+## Python Repeating Instructions (Loops 2)  
 
 ## Learning Outcomes assessed
 
